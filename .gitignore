@@ -1,0 +1,8 @@
+.cloudflared.log
+cloudflared
+current_location.bak
+location_*.txt
+location_debug.log
+saved.ip.txt
+saved.locations.txt
+saved_locations/
